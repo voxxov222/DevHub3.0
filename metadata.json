@@ -1,0 +1,5 @@
+{
+  "name": "DevHub: Google Cloud + Web3",
+  "description": "A developer-first hub for orchestrating and deploying Google Cloud and Web3 projects. Features integrations with Thirdweb, Alchemy, Hardhat, and a self-hostable deployer, all with a focus on developer experience and billing awareness.",
+  "requestFramePermissions": []
+}
